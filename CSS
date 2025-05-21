@@ -1,0 +1,35 @@
+body {
+  background-color:  #f4f4f4;
+}
+
+.color-box {
+  width: 100px;
+  height: 100px;
+  margin: 10px auto;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px;
+}
+
+.color1 {
+  background-color: #862BA8;
+}
+
+.color2 {
+  background-color: rgb(255,0,0);
+}
+
+.color3 {
+  background-color: yellow;
+}
+
+.color4 {
+  background-color: hsl(240, 100%, 50%);
+}
+
+.color5 {
+  background-color: limegreen;
+}
+
+h1 {
+  text-align: center;
+}
